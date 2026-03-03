@@ -1,0 +1,75 @@
+{
+  "projectType": "saas",
+  "projectName": "SpeechWriter AI",
+  "projectDescription": "AI-powered speech generation tool that creates personalized speeches for weddings, business presentations, and special events in seconds.",
+  "theme": "almond",
+  "primaryColor": "#8B5CF6",
+  "lightColor": "#A78BFA",
+  "darkColor": "#7C3AED",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": ["introduction", "quickstart"]
+          },
+          {
+            "group": "Core Features",
+            "pages": [
+              "features/speech-types",
+              "features/customization",
+              "features/tone-and-style"
+            ]
+          },
+          {
+            "group": "Use Cases",
+            "pages": [
+              "use-cases/weddings",
+              "use-cases/business",
+              "use-cases/education",
+              "use-cases/special-events"
+            ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "guides/creating-your-first-speech",
+              "guides/best-practices",
+              "guides/editing-and-refinement"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Resources",
+        "groups": [
+          {
+            "group": "Additional Resources",
+            "pages": [
+              "resources/faq",
+              "resources/tips-for-delivery",
+              "resources/support"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Free AI-powered speech generation",
+    "Multiple speech types (wedding toasts, business presentations, keynote addresses)",
+    "Customizable tone and style",
+    "Input key points for personalization",
+    "Instant generation in minutes",
+    "Professional and polished output"
+  ],
+  "publicApiSurface": [
+    "Speech generation interface",
+    "Speech type selection",
+    "Tone and style customization",
+    "Key points input",
+    "Output editing and refinement"
+  ]
+}
